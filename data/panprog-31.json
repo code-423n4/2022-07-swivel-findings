@@ -1,0 +1,9 @@
+{
+  "contest": 135,
+  "handle": "panprog",
+  "address": "0xf47974cad15c135445509ac670f531bbb9db5907",
+  "risk": "3",
+  "title": "Redeemable amount in the vault will get locked (and lost by user) if any function changing notional is called after market matures.",
+  "issueId": 31,
+  "issueUrl": "https://github.com/code-423n4/2022-07-swivel-findings/issues/31"
+}
