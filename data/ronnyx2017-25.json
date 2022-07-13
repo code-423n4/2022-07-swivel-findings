@@ -1,0 +1,9 @@
+{
+  "contest": 135,
+  "handle": "ronnyx2017",
+  "address": "0x86b474b800318d67b1c41a00ebfd259312a7ecd1",
+  "risk": "2",
+  "title": "Bypass the check of order key in the api server banckend, lead to DAPP DOS",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2022-07-swivel-findings/issues/25"
+}
