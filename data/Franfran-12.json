@@ -1,0 +1,9 @@
+{
+  "contest": 135,
+  "handle": "Franfran",
+  "address": "0xdaaa1ba6839a7f04061da8805de5800b152def2f",
+  "risk": "2",
+  "title": "Some Coumpound CERC20 tokens don't return the same arguments",
+  "issueId": 12,
+  "issueUrl": "https://github.com/code-423n4/2022-07-swivel-findings/issues/12"
+}
