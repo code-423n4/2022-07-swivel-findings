@@ -1,0 +1,9 @@
+{
+  "contest": 135,
+  "handle": "ronnyx2017",
+  "address": "0x86b474b800318d67b1c41a00ebfd259312a7ecd1",
+  "risk": "3",
+  "title": "Swivel.sol does not implement the interface ISwivel that will revert ZcToken.redeem or withdraw",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2022-07-swivel-findings/issues/24"
+}
