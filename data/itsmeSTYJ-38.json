@@ -1,0 +1,9 @@
+{
+  "contest": 135,
+  "handle": "itsmeSTYJ",
+  "address": "0xbca294543b46ff11cfafbcf67434bea23c21404b",
+  "risk": "3",
+  "title": "Lack of validation when calculating premiumFilled can cause undesirable interactions",
+  "issueId": 38,
+  "issueUrl": "https://github.com/code-423n4/2022-07-swivel-findings/issues/38"
+}
