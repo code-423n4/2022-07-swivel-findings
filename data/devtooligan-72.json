@@ -1,0 +1,9 @@
+{
+  "contest": 135,
+  "handle": "devtooligan",
+  "address": "0xe7aa7af667016837733f3ca3809bde04697730ef",
+  "risk": "3",
+  "title": "ERC20 Incorrect check on returnedAddress in permit() results in unlimited approval of zero address",
+  "issueId": 72,
+  "issueUrl": "https://github.com/code-423n4/2022-07-swivel-findings/issues/72"
+}
