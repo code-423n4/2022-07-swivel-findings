@@ -1,0 +1,9 @@
+{
+  "contest": 135,
+  "handle": "0x52",
+  "address": "0x522dffc539c264a8f7e0b91102e899b33f4dabc3",
+  "risk": "3",
+  "title": "authRedeem in Marketplace.sol calls nonexistent function",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2022-07-swivel-findings/issues/60"
+}
