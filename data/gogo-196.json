@@ -1,0 +1,9 @@
+{
+  "contest": 135,
+  "handle": "gogo",
+  "address": "0x8921d08f3068b3ba08c213eacfb744fbf75388c7",
+  "risk": "3",
+  "title": "ERC20 not checking for \"to\" field of address(0) in 3 functions",
+  "issueId": 196,
+  "issueUrl": "https://github.com/code-423n4/2022-07-swivel-findings/issues/196"
+}
