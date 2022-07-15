@@ -1,0 +1,9 @@
+{
+  "contest": 135,
+  "handle": "Avci",
+  "address": "0xF5a4D9F57161E96b1587cE604bbf682C3C536439",
+  "risk": "2",
+  "title": "Missing checks for address (0x0) when assigning values to address state variables",
+  "issueId": 113,
+  "issueUrl": "https://github.com/code-423n4/2022-07-swivel-findings/issues/113"
+}
