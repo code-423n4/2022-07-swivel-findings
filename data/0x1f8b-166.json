@@ -1,0 +1,9 @@
+{
+  "contest": 135,
+  "handle": "0x1f8b",
+  "address": "0x8db32d6ecce6b7a3dbebfaebe9b329022ec86acf",
+  "risk": "2",
+  "title": "`_decimals` MUST be `_underlying.decimals()`",
+  "issueId": 166,
+  "issueUrl": "https://github.com/code-423n4/2022-07-swivel-findings/issues/166"
+}
