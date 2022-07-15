@@ -1,0 +1,9 @@
+{
+  "contest": 135,
+  "handle": "8olidity",
+  "address": "0xb743291d7aba8aa3279c93526143bb210b6cbb16",
+  "risk": "2",
+  "title": " removeNotional() does not judge whether `a` is 0",
+  "issueId": 81,
+  "issueUrl": "https://github.com/code-423n4/2022-07-swivel-findings/issues/81"
+}
