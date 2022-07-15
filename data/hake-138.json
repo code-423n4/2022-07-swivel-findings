@@ -1,0 +1,9 @@
+{
+  "contest": 135,
+  "handle": "hake",
+  "address": "0x14ca9669a2d8e353560b85474575c5ffde245220",
+  "risk": "2",
+  "title": "No support for fee-on-transfer underlying tokens",
+  "issueId": 138,
+  "issueUrl": "https://github.com/code-423n4/2022-07-swivel-findings/issues/138"
+}
