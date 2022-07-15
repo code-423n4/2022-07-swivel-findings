@@ -1,0 +1,9 @@
+{
+  "contest": 135,
+  "handle": "pashov",
+  "address": "0x1797c3bcebf8c858a916fcbbd0359f65f5484915",
+  "risk": "2",
+  "title": "No Transfer Admin Pattern in Creator.sol, MarketPlace.sol and Swivel.sol",
+  "issueId": 172,
+  "issueUrl": "https://github.com/code-423n4/2022-07-swivel-findings/issues/172"
+}
