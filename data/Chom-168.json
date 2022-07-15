@@ -1,0 +1,9 @@
+{
+  "contest": 135,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833d7dee997d7d347e2634c9cef",
+  "risk": "2",
+  "title": "Withdraw doesn't check for the minimum amount of underlying token withdrawn",
+  "issueId": 168,
+  "issueUrl": "https://github.com/code-423n4/2022-07-swivel-findings/issues/168"
+}
