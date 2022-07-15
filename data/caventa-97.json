@@ -1,0 +1,9 @@
+{
+  "contest": 135,
+  "handle": "caventa",
+  "address": "0x813bfbd9725d385cbe3e39af0e01f076f7b654fb",
+  "risk": "2",
+  "title": "Allowance should always larger or equal to the transferred amount",
+  "issueId": 97,
+  "issueUrl": "https://github.com/code-423n4/2022-07-swivel-findings/issues/97"
+}
