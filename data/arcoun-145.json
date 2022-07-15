@@ -1,0 +1,9 @@
+{
+  "contest": 135,
+  "handle": "arcoun",
+  "address": "0xc4a0fa56e054d96dc57d44ffcddf17c41ec6c558",
+  "risk": "2",
+  "title": "Invalid testing of allowance in ZcToken.withdraw and ZcToken.redeem",
+  "issueId": 145,
+  "issueUrl": "https://github.com/code-423n4/2022-07-swivel-findings/issues/145"
+}
