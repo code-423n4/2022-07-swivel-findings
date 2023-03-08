@@ -1,3 +1,11 @@
+---
+sponsor: "Swivel"
+slug: "2022-07-swivel"
+date: "2022-09-29"
+title: "Swivel v3 contest"
+findings: "https://github.com/code-423n4/2022-07-swivel-findings/issues"
+contest: 135
+---
 
 # Overview
 
